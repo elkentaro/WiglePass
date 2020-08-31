@@ -24,3 +24,7 @@ WiglePass.psd = Layered Photoshop file.
 
 
 Font used : Orbitron / https://fonts.google.com/specimen/Orbitron  
+
+All wigle.net art copyright belongs to https://wigle.net 
+
+Much respect and thanks to the Wigle.net folks for an awesome service.
